@@ -3,6 +3,9 @@ com.badoo.mobile
 com.bumble.app
 com.okcupid.okcupid
 com.grindr.android
+com.game.friends.teamiksa
+com.spectre.konkan
+com.konkanikurdi.app
 com.zoosk.zoosk
 com.hinge.app
 com.match.android.matchmobile
