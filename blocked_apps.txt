@@ -1,3 +1,11 @@
+com.litatom.app
+com.guguk.android
+com.haflla.miracle.alite
+com.client.goparty
+com.relariovoice.lammy
+com.ezt.aigirlfriend.chatbot
+com.chat.whisper
+com.matchtech.cafelite
 com.tinder
 com.badoo.mobile
 com.bumble.app
