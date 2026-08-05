@@ -2,6 +2,7 @@ acr.browser.barebones
 com.aloha.browser
 com.aloha.browser.lite
 com.android.browser
+com.google.android.googlequicksearchbox
 com.android.chrome
 com.asus.browser
 com.baidu.browser.inter
