@@ -2,6 +2,12 @@ Quran
 hadith
 islam
 muslim
+Teacher Kosar Sabir
+Kosar Sabir
+Allah
+azkar
+nwezh
+zekr
 sheikh
 scholar
 islamic
@@ -46,7 +52,7 @@ slemani
 hawlakan
 iraq
 karkuk
-Ai
+Ai carton
 ramazan
 tv
 football
@@ -66,6 +72,11 @@ dasty 2
 فەرموودە
 ئیسلام
 ئایین
+تەوحید
+ئیمان
+عەقیدە
+ڕیگای ئیسلام
+ئیحسان
 وتار
 مامۆستا
 مەلا
@@ -214,6 +225,19 @@ dasty 2
 دەستی دوو
 مریشک
 ماسی
+شەرحی
+خۆپیشاندان
+چیرۆک
+جەژن
+قیامەت
+پەروەردە
+بانگ
+نوێژ
+زیکر
+اذکار
+نوێژکردن
+دەست نوێژ
+شەرحی فەرموودە
 قرآن
 حديث
 دين
@@ -252,3 +276,10 @@ dasty 2
 ضحك
 أخبار
 معلومات
+محمد
+معلم
+السلیمانیە
+السلام
+السلام و علیکم
+قران کریم
+التوحید
