@@ -6,6 +6,7 @@ surah
 ayah
 muslim
 poli 12
+eslam
 doblaj
 Teacher Kosar Sabir
 Kosar Sabir
@@ -103,9 +104,12 @@ dasty 2
 سوننەت
 نوێژ
 پێغەمبەر
+وەستا
 خوای گەورە
 ئیمان
 زیکر
+پزیشک
+باڵا پۆشی
 قورئانی پیرۆز
 ڕێگای ڕاست
 حیجاب
