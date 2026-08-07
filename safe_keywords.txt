@@ -6,6 +6,7 @@ islam
 qibla
 surat
 surah
+dua
 ayah
 muslim
 poli 12
@@ -57,6 +58,7 @@ code
 paplo
 ashkan
 arbat
+Sulaymaniyah
 Wta
 sbay
 ayene
