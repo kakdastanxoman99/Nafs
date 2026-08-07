@@ -38,6 +38,9 @@ funny
 news
 info
 kurdistan
+desgin
+desginer
+developer
 nrt
 rudaw
 kurdsat
@@ -107,6 +110,7 @@ dasty 2
 نیقاب
 باڵاپۆش
 عەبا
+دیزاین
 شەرعی
 پۆشاک
 پەردە
