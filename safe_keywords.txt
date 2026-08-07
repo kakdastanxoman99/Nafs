@@ -1,6 +1,7 @@
-Quran
+quran
 hadith
 islam
+qibla
 surat
 surah
 ayah
