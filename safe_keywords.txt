@@ -9,6 +9,7 @@ surah
 Ad Dhuha
 duha
 ayah
+dp.kurd
 muslim
 poli 12
 eslam
