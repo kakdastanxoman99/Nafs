@@ -1,5 +1,6 @@
 quran
 Hidayah
+imam
 hadith
 islam
 qibla
@@ -57,6 +58,7 @@ paplo
 ashkan
 arbat
 Wta
+sbay
 ayene
 Aqarat
 doblazh
