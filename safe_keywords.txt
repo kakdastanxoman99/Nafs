@@ -28,8 +28,8 @@ app quran
 cake
 doblekordiofficial
 munuli23
-drama
-flim
+flimi kurdi
+drami kurdi
 papi kurdi
 graphic
 albwmyyadawary
@@ -191,8 +191,6 @@ developer
 nrt
 rudaw
 kurdsat
-drama
-flim
 znjera
 wtar
 mamosta
