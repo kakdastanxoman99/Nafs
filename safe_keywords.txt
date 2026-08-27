@@ -1,6 +1,7 @@
 quran
 Hidayah
 imam
+barakah
 hadith
 islam
 qibla
@@ -366,6 +367,8 @@ raman
 al kurdi
 hasan
 gulala
+KYD's Trash or Gold
+shalaw
 چ
 پ
 ق
