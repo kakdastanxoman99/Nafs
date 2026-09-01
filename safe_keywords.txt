@@ -170,10 +170,10 @@ hospital
 center
 medical
 surgery
-sport
+sport news
 health
 comedy
-funny
+funny moment
 news
 info
 ABDULLA
