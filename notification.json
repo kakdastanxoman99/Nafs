@@ -1,10 +1,10 @@
 {
   "active": true,
-  "version": 2,
-  "title_ku": "ئاگاداری گرنگ",
-  "desc_ku": "لە بوونی هەر کێشە و گرفتێک ئاگادارمان بکەنەوە. ئەگەر دیمەنێکی ئاسایی بلۆک کرد، دەتوانیت ڕێژەی هەستیاری لە ناو ئەپەکەدا بەرز یان نزم بکەیتەوە. هەروەها ئەگەر دیمەنێک بلۆک نەکرا، وێنەکەی بۆ بنێرن تا لە لای خۆمانەوە بلۆکی بکەین.",
+  "version": 1,
+  "title_ku": "ئاگاداریی گرنگ",
+  "desc_ku": "لە کاتی بوونی هەر کێشەیەکدا تکایە ئاگادارمان بکەنەوە. ئەگەر دیمەنێکی ئاسایی بە هەڵە بلۆک کرا، دەتوانن ئاستی هەستیاری لە ناو ئەپەکەدا کەم یان زیاد بکەن. هەروەها ئەگەر دیمەنێکی نەشیاو بلۆک نەکرا، وێنەکەیمان بۆ بنێرن بۆ ئەوەی لە لای خۆمانەوە بلۆکی بکەین.",
   "title_ar": "تنبيه مهم",
-  "desc_ar": "أبلغنا في حال وجود أي مشكلة. إذا تم حظر مشهد عادي، يمكنك ضبط نسبة الحساسية داخل التطبيق. وإذا لم يتم حظر مشهد غير لائق، أرسله لنا لنقوم بحظره من طرفنا.",
+  "desc_ar": "يُرجى إبلاغنا في حال مواجهة أي مشكلة. إذا تم حظر مشهد عادي عن طريق الخطأ، يمكنك تعديل مستوى الحساسية من داخل التطبيق. أما إذا لم يتم حظر مشهد غير لائق، فيُرجى إرساله إلينا لنقوم بحظره من طرفنا.",
   "title_en": "Important Notice",
-  "desc_en": "Let us know if you encounter any issues. If a normal scene gets blocked, adjust the sensitivity slider in the app. If something isn't blocked, send it to us so we can block it."
+  "desc_en": "Please let us know if you encounter any issues. If a normal scene is mistakenly blocked, you can adjust the sensitivity level within the app. If an inappropriate scene is not blocked, please send it to us so we can block it on our end."
 }
