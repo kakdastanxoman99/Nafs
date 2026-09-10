@@ -1,0 +1,10 @@
+{
+  "active": true,
+  "version": 1,
+  "title_ku": "ئاگاداری گرنگ",
+  "desc_ku": "لە بوونی هەر کێشە و گرفتێک ئاگادارمان بکەنەوە. ئەگەر دیمەنێکی ئاسایی بلۆک کرد، دەتوانیت ڕێژەی هەستیاری لە ناو ئەپەکەدا بەرز یان نزم بکەیتەوە. هەروەها ئەگەر دیمەنێک بلۆک نەکرا، وێنەکەی بۆ بنێرن تا لە لای خۆمانەوە بلۆکی بکەین.",
+  "title_ar": "تنبيه مهم",
+  "desc_ar": "أبلغنا في حال وجود أي مشكلة. إذا تم حظر مشهد عادي، يمكنك ضبط نسبة الحساسية داخل التطبيق. وإذا لم يتم حظر مشهد غير لائق، أرسله لنا لنقوم بحظره من طرفنا.",
+  "title_en": "Important Notice",
+  "desc_en": "Let us know if you encounter any issues. If a normal scene gets blocked, adjust the sensitivity slider in the app. If something isn't blocked, send it to us so we can block it."
+}
