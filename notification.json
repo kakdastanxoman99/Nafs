@@ -1,10 +1,10 @@
 {
   "active": true,
-  "version": 1,
-  "title_ku": "ئاگاداریی گرنگ",
-  "desc_ku": "لە کاتی بوونی هەر کێشەیەکدا تکایە ئاگادارمان بکەنەوە. ئەگەر دیمەنێکی ئاسایی بە هەڵە بلۆک کرا، دەتوانن ئاستی هەستیاری لە ناو ئەپەکەدا کەم یان زیاد بکەن. هەروەها ئەگەر دیمەنێکی نەشیاو بلۆک نەکرا، وێنەکەیمان بۆ بنێرن بۆ ئەوەی لە لای خۆمانەوە بلۆکی بکەین.",
-  "title_ar": "تنبيه مهم",
-  "desc_ar": "يُرجى إبلاغنا في حال مواجهة أي مشكلة. إذا تم حظر مشهد عادي عن طريق الخطأ، يمكنك تعديل مستوى الحساسية من داخل التطبيق. أما إذا لم يتم حظر مشهد غير لائق، فيُرجى إرساله إلينا لنقوم بحظره من طرفنا.",
-  "title_en": "Important Notice",
-  "desc_en": "Please let us know if you encounter any issues. If a normal scene is mistakenly blocked, you can adjust the sensitivity level within the app. If an inappropriate scene is not blocked, please send it to us so we can block it on our end."
+  "version": 2,
+  "title_ku": "چی نوێیە و ئاگاداریی گرنگ",
+  "desc_ku": "• زیادکردنی کۆنتڕۆڵی پێشکەوتوو بۆ ناسینەوەی جەستە و شێوازی بلوورکردنەوە[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span)\n• بژاردەی نوێ بۆ دیاریکردنی وردەکارییەکانی پیاو / ئافرەت و شێوازەکانی پیشاندانی بلوور[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)\n• چاککردنی هەڵەکان و باشترکردنی کارکردنی ئەپەکە\n\nلە کاتی بوونی هەر کێشەیەکدا تکایە ئاگادارمان بکەنەوە. ئەگەر دیمەنێکی ئاسایی بە هەڵە بلۆک کرا، دەتوانن ئاستی هەستیاری لە ناو ئەپەکەدا کەم یان زیاد بکەن. هەروەها ئەگەر دیمەنێکی نەشیاو بلۆک نەکرا، وێنەکەیمان بۆ بنێرن بۆ ئەوەی لە لای خۆمانەوە بلۆکی بکەین.",
+  "title_ar": "ما الجديد وتنبيه مهم",
+  "desc_ar": "• إضافة عناصر تحكم متقدمة لتحديد الجسم وتخصيص أنماط التمويه[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span)\n• خيارات جديدة لتحديد تفاصيل الرجال/النساء وأنماط العرض[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span)\n• إصلاح الأخطاء وتحسين الأداء العام\n\nيُرجى إبلاغنا في حال مواجهة أي مشكلة. إذا تم حظر مشهد عادي عن طريق الخطأ، يمكنك تعديل مستوى الحساسية من داخل التطبيق. أما إذا لم يتم حظر مشهد غير لائق، فيُرجى إرساله إلينا لنقوم بحظره من طرفنا.",
+  "title_en": "What's New & Important Notice",
+  "desc_en": "• Added advanced body detection and custom blur controls[span_8](start_span)[span_8](end_span)[span_9](start_span)[span_9](end_span)\n• New customization options for gender-specific detection and display styles[span_10](start_span)[span_10](end_span)[span_11](start_span)[span_11](end_span)\n• Bug fixes and performance improvements\n\nPlease let us know if you encounter any issues. If a normal scene is mistakenly blocked, you can adjust the sensitivity level within the app. If an inappropriate scene is not blocked, please send it to us so we can block it on our end."
 }
