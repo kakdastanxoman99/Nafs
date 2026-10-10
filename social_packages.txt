@@ -5,6 +5,7 @@ com.whatsapp
 com.whatsapp.w4b
 com.threads.android
 com.zhiliaoapp.musically
+com.ss.android.ugc.trill
 com.snapchat.android
 org.telegram.messenger
 org.telegram.plus
