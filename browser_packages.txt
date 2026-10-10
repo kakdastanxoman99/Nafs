@@ -270,3 +270,5 @@ io.github.browsemore
 me.chibber.browser
 org.midori.browser
 org.weblight.browser
+com.zhiliaoapp.musically
+com.ss.android.ugc.trill
