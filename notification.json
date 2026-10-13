@@ -1,10 +1,10 @@
 {
   "active": true,
-  "version": 3,
-  "title_ku": "چی نوێیە و ئاگاداریی گرنگ",
-  "desc_ku": "• زیادکردنی کۆنتڕۆڵی پێشکەوتوو بۆ ناسینەوەی جەستە و شێوازی بلوورکردنەوە\n• بژاردەی نوێ بۆ دیاریکردنی وردەکارییەکانی پیاو / ئافرەت و شێوازەکانی پیشاندانی بلوور\n• چاککردنی هەڵەکان و باشترکردنی کارکردنی ئەپەکە\n\nلە کاتی بوونی هەر کێشەیەکدا تکایە ئاگادارمان بکەنەوە. ئەگەر دیمەنێکی ئاسایی بە هەڵە بلۆک کرا، دەتوانن ئاستی هەستیاری لە ناو ئەپەکەدا کەم یان زیاد بکەن. هەروەها ئەگەر دیمەنێکی نەشیاو بلۆک نەکرا، وێنەکەیمان بۆ بنێرن بۆ ئەوەی لە لای خۆمانەوە بلۆکی بکەین.",
-  "title_ar": "ما الجديد وتنبيه مهم",
-  "desc_ar": "• إضافة عناصر تحكم متقدمة لتحديد الجسم وتخصيص أنماط التمويه\n• خيارات جديدة لتحديد تفاصيل الرجال/النساء وأنماط العرض\n• إصلاح الأخطاء وتحسين الأداء العام\n\nيُرجى إبلاغنا في حال مواجهة أي مشكلة. إذا تم حظر مشهد عادي عن طريق الخطأ، يمكنك تعديل مستوى الحساسية من داخل التطبيق. أما إذا لم يتم حظر مشهد غير لائق، فيُرجى إرساله إلينا لنقوم بحظره من طرفنا.",
-  "title_en": "What's New & Important Notice",
-  "desc_en": "• Added advanced body detection and custom blur controls\n• New customization options for gender-specific detection and display styles\n• Bug fixes and performance improvements\n\nPlease let us know if you encounter any issues. If a normal scene is mistakenly blocked, you can adjust the sensitivity level within the app. If an inappropriate scene is not blocked, please send it to us so we can block it on our end."
+  "version": 4,
+  "title_ku": "چی نوێیە؟ باشترکردنی گرنگ",
+  "desc_ku": "• باشترکردنی سیستەمی ناسینەوەی جەستە و وردترکردنی شێوازی بلۆککردن و بلورکردنەوە\n• زیادکردنی کۆنتڕۆڵی پێشکەوتوو بۆ دیاریکردنی وردەکارییەکانی پیاو و ئافرەت و شێوازی پیشاندانی بلور\n• چاککردنی هەندێک هەڵە و باشترکردنی خێرایی و کارایی ئەپەکە\n• پشتگیری لە ئەندرۆید ١٠ و وەشانەکانی خوارەوە\n• باشترکردنی بلورکردنەوەی ڕاستەوخۆ (Live Blur) لەگەڵ کەسەکان، بۆ بلورکردنەوەی خێراتر و کەمکردنەوەی دواخستن\n\nسوپاس بۆ پشتگیریتان. هیوادارین «نەفس» ببێتە هۆی خێر و سوود بۆ هەموومان. 🌿🤲🏻",
+  "title_ar": "ما الجديد؟ تحسينات مهمة",
+  "desc_ar": "• تحسين نظام اكتشاف الجسم وزيادة دقة الحجب والتمويه\n• إضافة أدوات تحكم متقدمة لتخصيص اكتشاف الرجال والنساء وأنماط التمويه\n• إصلاح بعض الأخطاء وتحسين سرعة التطبيق وأدائه\n• دعم Android 10 والإصدارات الأقدم\n• تحسين التمويه المباشر (Live Blur) مع الأشخاص لتقليل التأخير وتسريع الاستجابة\n\nشكرًا لدعمكم. نأمل أن يكون تطبيق «نەفس» مصدر خير وفائدة للجميع. 🌿🤲🏻",
+  "title_en": "What's New? Important Improvements",
+  "desc_en": "• Improved body detection and more accurate blocking and blurring\n• Added advanced controls to customize male/female detection and blur styles\n• Fixed bugs and improved overall app speed and performance\n• Added support for Android 10 and earlier versions\n• Improved live blur around people for faster response and reduced lag\n\nThank you for your support. We hope Nafs brings goodness and benefit to everyone. 🌿🤲🏻"
 }
